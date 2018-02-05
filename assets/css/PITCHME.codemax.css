@@ -42,12 +42,13 @@ html:-moz-full-screen-ancestor {
 }
 
 .reveal p span.slide-title {
-  color: white;
+  color: black;
   padding: 4px 15px;
   opacity: 0.75 !important;
   border-radius: 15px;
   display: none;
 }
+
 .reveal div.left {
     float: left;
     z-index: -10;
@@ -64,8 +65,20 @@ html:-moz-full-screen-ancestor {
     font-size: 0.5em;
 }
 
+.reveal a {
+    color: #e7ad52;
+}
+
+.reveal a:hover {
+    color: #f3d7ac;
+}
+
 .hljs {
   background : none;
+}
+
+.white {
+  color: white;
 }
 
 #gp-logo img {
