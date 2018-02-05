@@ -4,11 +4,12 @@
 # For details, visit Wiki:
 # https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
 #
-theme : night
+theme : simple
 theme-override : assets/css/PITCHME.css
 # theme-override : assets/css/PITCHME.codemax.css
-highlight : atom-one-dark
+highlight : atom-one-light
 #logo : assets/image/logo.png
 transition : none
 published : true
 #footnote : "GitPitch [ Black ] Presentation Template"
+footnote : "<a style='text-decoration:none; color: white;' href='https://www.duezeta.net/prodotti/dettagli/70'>DUE ZETA S.R.L. - SHOP: www.duezeta.net</a>"
