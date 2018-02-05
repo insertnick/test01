@@ -93,4 +93,4 @@ html:-moz-full-screen-ancestor {
 
 .gp-menu-bars { display:none; }
 
-footer { display:none; }
+#title-footer { display:none; }
