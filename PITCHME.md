@@ -1,0 +1,1 @@
+---?image=assets/image/DG3352.jpg&size=auto 100%
