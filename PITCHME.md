@@ -1,1 +1,1 @@
----?image=assets/image/DG3352.jpg&size=auto 100%
+---?image=http://res.cloudinary.com/dimensione3-srl/image/upload/v1518863882/Due-Zeta__Homi_Milano_2018/DG3352.jpg&size=auto 100%
