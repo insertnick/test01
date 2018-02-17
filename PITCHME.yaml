@@ -8,7 +8,7 @@ theme : simple
 theme-override : assets/css/PITCHME.css
 # theme-override : assets/css/PITCHME.codemax.css
 highlight : atom-one-light
-#logo : assets/image/logo.png
+logo : http://res.cloudinary.com/dimensione3-srl/image/upload/v1518864996/Due-Zeta__Homi_Milano_2018/logo_duezeta_cczecchin.jpg
 transition : slide
 published : true
 #footnote : "GitPitch [ Black ] Presentation Template"
